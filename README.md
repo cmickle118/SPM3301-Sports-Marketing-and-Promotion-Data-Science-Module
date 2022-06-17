@@ -20,19 +20,6 @@ The primary focus of this reposity concerns only the portion of the course where
 * Hypothesis Testing
 * Regression Analysis
 
-| |Content|Application in Sport Business|
-|:----|:----|:----|
-|Lecture|§ Data management in the sport industry|§ Market segment|
-|(30 minutes)|§ Types of data / variables|§ Typology of sport consumer|
-| |§ Descriptive analysis (univariate)|§ Market analysis|
-| |§ Interpretation of outcomes|§ Consumer profile|
-| | | |
-|Class activity|§ Measure of centrality (mean/median/mode)| |
-|(35 minutes)|§ Measure of dispersion (variance/standard deviation)| |
-| |§ Graphs and frequency tables| |
-|Quiz|The quiz covers the key components of data analysis and descriptive analysis.| |
-|(10 minutes)| | |
-
 
 
 # Navigating The Repository
