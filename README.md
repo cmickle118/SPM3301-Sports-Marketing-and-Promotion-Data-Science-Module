@@ -21,17 +21,12 @@ The primary focus of this reposity concerns only the portion of the course where
 * Regression Analysis
 
 
-|              | Content                                  | Application in Sport Business |
-| ------------ | ---------------------------------------- | ----------------------------- |
-| Lecture      | §  Data management in the sport industry | §  Market segment             |
-| (30 minutes) | §  Types of data / variables             | §  Typology of sport consumer |
-|              | §  Descriptive analysis (univariate)     | §  Market analysis            |
-|              |                                          |                               |
-|              |                                          |                               |
-|              |                                          |                               |
-|              |                                          |                               |
-|              |                                          |                               |
-|              |                                          |                               |
+|  Module 1    | Content                                 | Application in Sport Business|
+| ------------ | ----------------------------------------| -----------------------------|
+| Lecture      |   Data management in the sport industry |   Market segment             |
+| (30 minutes) |   Types of data / variables             |   Typology of sport consumer |
+|              |   Descriptive analysis (univariate)     |   Market analysis            |
+
 # Navigating The Repository
 
 <table>
