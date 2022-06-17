@@ -76,5 +76,5 @@ The primary focus of this reposity concerns only the portion of the course where
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
-* [Sangkwon Lee, Instructor of this module and Associate Professor of Mathematics of Winston-Salem State University](mailto:lees@wssu.edu)
+* [Sangkwon Lee, Instructor of this module and Assistant Professor of Sports Science/Physical Education of Winston-Salem State University](mailto:lees@wssu.edu)
 * [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
