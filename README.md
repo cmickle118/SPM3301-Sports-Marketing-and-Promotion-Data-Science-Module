@@ -20,33 +20,98 @@ The primary focus of this reposity concerns only the portion of the course where
 * Hypothesis Testing
 * Regression Analysis
 
-|                              | Content                                                                                                                                 | Application in Sport Business                                                         |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Lecture
+**Course Module**
 
-(30 minutes)        | § Data management in the sport industry
+**Module 1**
 
-§ Types of data / variables
+|
+ | Content | Application in Sport Business |
+| --- | --- | --- |
+| Lecture(30 minutes) |
+- Data management in the sport industry
+- Types of data / variables
+- Descriptive analysis (univariate)
+- Interpretation of outcomes
 
-§ Descriptive analysis (univariate)
+ |
+- Market segment
+- Typology of sport consumer
 
-§ Interpretation of outcomes | § Market segment
+- Market analysis
+- Consumer profile
+ |
+| Class activity(35 minutes) |
+- Measure of centrality (mean/median/mode)
+- Measure of dispersion (variance/standard deviation)
+- Graphs and frequency tables
+ |
+| Quiz(10 minutes) | The quiz covers the key components of data analysis and descriptive analysis. |
 
-§ Typology of sport consumer
+**Module 2**
 
-§ Market analysis
+|
+ | Content | Application in Sport Business |
+| --- | --- | --- |
+| Lecture(20 minutes) |
+- Descriptive analysis (bivariate)
+- Interpretation of outcomes
 
-§ Consumer profile |
-| Class activity
 
-(35 minutes) | § Measure of centrality (mean/median/mode)
+ |
+- Economic condition and sport business
+- Sport participation by race/income/age
 
-§ Measure of dispersion (variance/standard deviation)
+- Market analysis
+- Market performance
+ |
+| Class Activity(45 minutes) |
+- Correlation / covariance
+- Scatter plot / cross tabulation
+ |
+| Quiz(10 minutes) | The quiz covers the key components of data analysis and descriptive analysis. |
 
-§ Graphs and frequency tables        |
-| Quiz
+**Module 3**
 
-(10 minutes)           | The quiz covers the key components of data analysis and descriptive analysis.                                                           |
+|
+ | Content | Application in Sport Business |
+| --- | --- | --- |
+| Lecture(20 minutes) |
+- Predictive analysis
+- Hypothesis testing
+- Interpretation of outcomes
+
+ |
+- Comparison of sport consumer (perception/attitude)
+- Identifying target market consumers
+ |
+| Class Activity(45 minutes) |
+- Analysis of variance
+- t-test
+ |
+| Quiz(10 minutes) | The quiz covers the key components of hypothesis testing and how to interpret the outcomes. |
+
+**Module 4**
+
+|
+ | Content | Application in Sport Business |
+| --- | --- | --- |
+| Class Activity(45 minutes) |
+- Predictive analysis
+- Regression analysis (multiple regression / logistic regression)
+- Interpretation of outcomes
+ |
+- Sport consumer behavior
+- Determinants of sport demand
+- Determinants of ticket price
+- Effectiveness of sport advertising
+
+ |
+| Discussion(20 minutes) |
+
+  - Why do you think having knowledge of data science is important?
+  - How do data science related skills and knowledge affect the sport marketing?
+ |
+| Quiz(10 minutes) | The quiz covers the key components of predictive analysis and how to interpret the outcomes. |
 
 # Navigating The Repository
 
