@@ -1,6 +1,6 @@
 # SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module
 This is a repository containing the material regarding data science modules implemented as a part of Winston-Salem State University's [Center for Applied Data Science (CADS)](https://www.wssu.edu/academics/colleges-and-departments/college-of-arts-sciences-business-education/center-for-applied-data-science/index.html) Faculty Adopter program. The Faculty Adopter Program is designed to support enthusiastic faculty who are willing to infuse data science into their courses across various disciplines and are capable of quantitatively and qualitatively assessing the impact of their interventions. 
-# Biostatistics
+# Sports Marketing and Promotion
 This respository contains the data science infusion adopter modules of a course in Sports Marketing and Promotion as taught by Dr. Sangkwoon Lee. The Sports Marketing and Promotion course is offered in the Health, Physical Educaiton, and Sport Studies department once a year in the Spring at Winston-Salem State University. The majority of students who enroll in this course are those majoring in sports management. However, this course is also intended for all students whose interests and/or professional goals involve business in sports/sports analytics. 
 
 The topics in this module include: data analysis, descriptive statistics, statistical inference, correlation/covariance, graphing and tabulation, analysis of variance, and regression/predictive analysis.
